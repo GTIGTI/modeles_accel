@@ -107,11 +107,11 @@ position_initale = 0;
 
 
 %% Lancement de la simulation :
-sim('Accel_model');
+%sim('Accel_model');
 
 %% Trac� des graphiques
-run('DessinCourbe.m');
+%run('DessinCourbe.m');
 
 %% R�sultats de la simulation :
-disp('Temps (s) :')
-disp(max(Distance.time))
+%disp('Temps (s) :')
+%disp(max(Distance.time))
